@@ -141,3 +141,7 @@ dmypy.json
 /lab2/data/*
 HayatLabs/data/*
 HayatLabs/data/MNIST/raw/train-labels-*
+diagnose_terminal.ps1
+fix_terminal.bat
+fix_vscode_settings.ps1
+settings.json*
