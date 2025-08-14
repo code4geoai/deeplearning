@@ -145,3 +145,4 @@ diagnose_terminal.ps1
 fix_terminal.bat
 fix_vscode_settings.ps1
 settings.json*
+ssh_key*
